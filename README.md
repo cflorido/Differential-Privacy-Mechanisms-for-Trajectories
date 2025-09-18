@@ -41,5 +41,5 @@ Final_version/
 ├── LDPtrace_code.ipynb        # Core implementation of LDP for trajectories
 ├── pivot_sampling_code.ipynb  # Implementation of Pivot Sampling
 ├── pivot_data_1.csv           # Pivot experiment data
-├── Geolife Trajectories 1.3/  # Dataset (not included due to size, see below)
-└── Referencias/               # Bibliographic references
+Geolife Trajectories 1.3/  # Dataset (not included due to size, see below)
+Referencias/               # Bibliographic references
